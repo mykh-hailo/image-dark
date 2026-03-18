@@ -4,6 +4,9 @@ One-line description of what this repo is for.
 
 ## Screenshots (light / dark)
 
+![fperm schema](./dark.jpg#gh-dark-mode-only)
+![fperm schema](./light.jpg#gh-light-mode-only)
+
 GitHub supports automatic image switching using `prefers-color-scheme` via `<picture>`.
 Put your images in `assets/` (or update the paths below).
 
